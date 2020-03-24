@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'pg', '~> 1.2', '>= 1.2.3'
 gem 'blazer'
+gem 'ffaker'
 
 group :development, :test do
   gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
